@@ -9,4 +9,4 @@ B. Exploratory Data Analysis (EDA)
 
 3. Analyse statistical data of the respective clubs
 4. Analyze the statistical data of the players
-C. Data Visualisation using Power BI
+5. Data Visualisation using Power BI
